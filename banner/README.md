@@ -1,2 +1,0 @@
-Basic banner  
-Nothing much  
